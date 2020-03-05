@@ -8,4 +8,4 @@ SVM and CNN are implemented using scikit-learn and Keras.
 It is implemented on MNIST data.
 SVM and SVM Kernel both are implemented.
 
-CLustering is implemented using scikit-learn and implemented from scratch.
+Clustering is implemented using scikit-learn and implemented from scratch.
